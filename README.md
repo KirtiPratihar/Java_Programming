@@ -1,2 +1,2 @@
 # Java_Programming
-this repo is all about java
+this repo is all about java programming
